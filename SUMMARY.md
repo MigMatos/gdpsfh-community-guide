@@ -31,7 +31,6 @@
 * [Create Roles](phpmyadmin/create-roles.md)
 * [Place Roles](phpmyadmin/placing-roles.md)
 * [Place Special Moderator Functions](phpmyadmin/create-modip.md)
-* [Change Default Downloads/Likes](phpmyadmin/change-default-downloads-likes.md)
 * [Types of the table actions](phpmyadmin/actions-explain.md)
 * [Elegant SQL fixes](phpmyadmin/elegant-sql-fixes.md)
 
